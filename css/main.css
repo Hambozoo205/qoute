@@ -1,0 +1,41 @@
+.header {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    color:black;
+  }
+  h3 {
+    font-size: 50px;
+    font-weight: 100;
+  }
+  
+  p {
+    font-size: 40px;
+    margin: 20px 0;
+  }
+  
+  button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 30px 50px;
+    
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+
+  
